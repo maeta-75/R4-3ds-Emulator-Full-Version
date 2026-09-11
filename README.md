@@ -231,3 +231,6 @@ This repository serves as the official landing page for R4 3DS Emulator. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of R4 3DS Emulator today!**
+
+---
+**Last updated:** 2026-09-11 00:40:44 UTC
